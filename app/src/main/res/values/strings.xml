@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Brantley Hudson</string>
+    <string name="title">CDIM 4385: HomeWork1</string>
+    <string name="phone">(806) 555-5555)</string>
+    <string name="social">/@brantley.h</string>
+    <string name="email">bthudson4@buffs.wtamu.edu</string>
+</resources>
